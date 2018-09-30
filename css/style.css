@@ -1188,7 +1188,7 @@ i.tweeter_icon2::before {
     }
 
     .black-bacground-opacity {
-        background-color: rgba(0, 0, 0, .765);
+        background-color: rgba(0, 0, 0, .1);
     }
 
     .latest-project-section h4,
