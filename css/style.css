@@ -1207,7 +1207,7 @@ i.tweeter_icon2::before {
     .latest-project-section p,
     .latest-project-section h3,
     .latest-project-section span {
-        color: rgba(255, 255, 255, 1);
+        color: rgba(0, 0, 0, 1);
     }
 
     .relax-section-text-wrapper {
