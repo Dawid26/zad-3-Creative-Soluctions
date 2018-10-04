@@ -1097,6 +1097,11 @@ i.tweeter_icon2::before {
         height: 100%;
     }
 
+.logo-footer ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
     /*pro-serv*/
     .professional-services .one-of-three,
     .culture-section .one-of-three {
@@ -1243,12 +1248,10 @@ i.tweeter_icon2::before {
 }
 
 @media all and (max-width: 1084px) {
- logo-footer ul {
-
-   
+ .logo-footer ul {
     flex-direction: column;
-
 }
+
     .social-links p {
         display: block;
         width: 100%;
@@ -1378,11 +1381,6 @@ i.tweeter_icon2::before {
     }
 }
 
-.logo-footer ul {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
 .circle, .circle2 {
 
     height: 10.75rem;
