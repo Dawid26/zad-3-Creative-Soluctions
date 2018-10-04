@@ -1243,6 +1243,12 @@ i.tweeter_icon2::before {
 }
 
 @media all and (max-width: 1084px) {
+ logo-footer ul {
+
+   
+    flex-direction: column;
+
+}
     .social-links p {
         display: block;
         width: 100%;
@@ -1382,4 +1388,7 @@ i.tweeter_icon2::before {
     height: 10.75rem;
     width: 10.75rem;
 
+}
+body{
+    overflow-x: hidden;
 }
