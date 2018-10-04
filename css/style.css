@@ -1252,6 +1252,9 @@ i.tweeter_icon2::before {
         top: 50px;
 
     }
+ .latest-project-section div p {
+    color: #000000;
+}
 }
 
 @media all and (max-width: 712px) {
