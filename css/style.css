@@ -1239,7 +1239,12 @@ i.tweeter_icon2::before {
 }
 
 @media all and (max-width: 1220px) {
+.logo-footer ul {
 
+
+    flex-direction: column;
+
+}
     .circle,
     .circle2 {
         height: 10.75rem;
