@@ -1377,3 +1377,9 @@ i.tweeter_icon2::before {
     align-items: center;
     justify-content: space-between;
 }
+.circle, .circle2 {
+
+    height: 10.75rem;
+    width: 10.75rem;
+
+}
