@@ -1008,6 +1008,9 @@ i.tweeter_icon2::before {
 }
 
 @media all and (max-width: 1024px) {
+ .latest-project-section div p {
+    color: #777777;
+}
 
     i.location_icon::before,
     i.phone_icon::before,
